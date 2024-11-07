@@ -37,7 +37,6 @@ make
 To run the program, navigate to the bin/ directory and run the file:
 
 ```bash
-Copy code
 cd bin/
 ./main
 ```
