@@ -34,6 +34,7 @@ To compile the project, navigate to the root directory of the project and simply
 
 ```bash
 make
+```
 
 =====  
 ## HOW TO RUN::
@@ -44,3 +45,4 @@ To run the program, navigate to the bin/ directory and run the file:
 Copy code
 cd bin/
 ./main
+```
